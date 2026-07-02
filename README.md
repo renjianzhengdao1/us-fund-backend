@@ -22,7 +22,7 @@ us-fund-backend/
 ├── services/
 ├── requirements.txt
 ├── Procfile
-├── runtime.txt
+├── mise.toml
 └── .gitignore
 ```
 
@@ -52,7 +52,8 @@ us-fund-backend/
      ```
 
 5. **等待自动部署**
-   - Railway 会自动识别 `Procfile` 和 `requirements.txt`
+   - Railway 会自动识别 `Procfile`、`mise.toml` 和 `requirements.txt`
+   - `mise.toml` 指定了 Python 3.11.9 并禁用了 GitHub artifact attestation 验证，避免构建失败
    - 构建完成后会生成一个 HTTPS 域名，例如：
      ```
      https://us-fund-backend-production.up.railway.app

@@ -1,0 +1,2 @@
+# Railway 部署用 Python 版本
+python-3.11.9

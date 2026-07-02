@@ -1,0 +1,368 @@
+[
+  {
+    "code": "040046",
+    "name": "华安纳斯达克100指数A",
+    "category": "纳指100",
+    "limit": 10
+  },
+  {
+    "code": "014978",
+    "name": "华安纳斯达克100指数C",
+    "category": "纳指100",
+    "limit": 10
+  },
+  {
+    "code": "270042",
+    "name": "广发纳斯达克100ETF联接A",
+    "category": "纳指100",
+    "limit": 10
+  },
+  {
+    "code": "006479",
+    "name": "广发纳斯达克100ETF联接C",
+    "category": "纳指100",
+    "limit": 10
+  },
+  {
+    "code": "015299",
+    "name": "华夏纳斯达克100ETF联接A",
+    "category": "纳指100",
+    "limit": 100
+  },
+  {
+    "code": "015300",
+    "name": "华夏纳斯达克100ETF联接C",
+    "category": "纳指100",
+    "limit": 100
+  },
+  {
+    "code": "160213",
+    "name": "国泰纳斯达克100指数",
+    "category": "纳指100",
+    "limit": 100
+  },
+  {
+    "code": "016055",
+    "name": "博时纳斯达克100指数发起A",
+    "category": "纳指100",
+    "limit": 100
+  },
+  {
+    "code": "016057",
+    "name": "博时纳斯达克100指数发起C",
+    "category": "纳指100",
+    "limit": 100
+  },
+  {
+    "code": "016532",
+    "name": "嘉实纳斯达克100指数发起A",
+    "category": "纳指100",
+    "limit": 100
+  },
+  {
+    "code": "016533",
+    "name": "嘉实纳斯达克100指数发起C",
+    "category": "纳指100",
+    "limit": 100
+  },
+  {
+    "code": "539001",
+    "name": "建信纳斯达克100指数A",
+    "category": "纳指100",
+    "limit": 100
+  },
+  {
+    "code": "012752",
+    "name": "建信纳斯达克100指数C",
+    "category": "纳指100",
+    "limit": 100
+  },
+  {
+    "code": "161130",
+    "name": "易方达纳斯达克100指数LOF",
+    "category": "纳指100",
+    "limit": 10
+  },
+  {
+    "code": "012870",
+    "name": "易方达纳斯达克100指数C",
+    "category": "纳指100",
+    "limit": 10
+  },
+  {
+    "code": "008971",
+    "name": "大成纳斯达克100ETF联接A",
+    "category": "纳指100",
+    "limit": 10
+  },
+  {
+    "code": "019172",
+    "name": "摩根纳斯达克100指数发起A",
+    "category": "纳指100",
+    "limit": 10
+  },
+  {
+    "code": "019173",
+    "name": "摩根纳斯达克100指数发起C",
+    "category": "纳指100",
+    "limit": 10
+  },
+  {
+    "code": "050025",
+    "name": "博时标普500ETF联接A",
+    "category": "标普500",
+    "limit": 100
+  },
+  {
+    "code": "050026",
+    "name": "博时标普500ETF联接C",
+    "category": "标普500",
+    "limit": 100000000000
+  },
+  {
+    "code": "161125",
+    "name": "易方达标普500指数LOF",
+    "category": "标普500",
+    "limit": 10
+  },
+  {
+    "code": "012860",
+    "name": "易方达标普500指数C",
+    "category": "标普500",
+    "limit": 10
+  },
+  {
+    "code": "096001",
+    "name": "大成标普500等权重指数",
+    "category": "标普500",
+    "limit": 10
+  },
+  {
+    "code": "008401",
+    "name": "大成标普500等权重指数C",
+    "category": "标普500",
+    "limit": 10
+  },
+  {
+    "code": "017643",
+    "name": "摩根标普500指数发起A",
+    "category": "标普500",
+    "limit": 0
+  },
+  {
+    "code": "017644",
+    "name": "摩根标普500指数发起C",
+    "category": "标普500",
+    "limit": 100000000000
+  },
+  {
+    "code": "501225",
+    "name": "景顺长城全球半导体芯片产业股票(QDII-LOF)A",
+    "category": "半导体",
+    "limit": 100
+  },
+  {
+    "code": "016668",
+    "name": "景顺长城全球半导体芯片产业股票(QDII-LOF)C",
+    "category": "半导体",
+    "limit": 100
+  },
+  {
+    "code": "019454",
+    "name": "华泰柏瑞中韩半导体ETF发起式联接(QDII)A",
+    "category": "半导体",
+    "limit": 10
+  },
+  {
+    "code": "019455",
+    "name": "华泰柏瑞中韩半导体ETF发起式联接(QDII)C",
+    "category": "半导体",
+    "limit": 10
+  },
+  {
+    "code": "270023",
+    "name": "广发全球精选股票(QDII)人民币A",
+    "category": "美股科技",
+    "limit": 200
+  },
+  {
+    "code": "021277",
+    "name": "广发全球精选股票(QDII)人民币C",
+    "category": "美股科技",
+    "limit": 200
+  },
+  {
+    "code": "019447",
+    "name": "华夏全球科技先锋混合(QDII)A",
+    "category": "美股科技",
+    "limit": 0
+  },
+  {
+    "code": "000043",
+    "name": "嘉实美国成长股票(QDII)人民币",
+    "category": "美股科技",
+    "limit": 100
+  },
+  {
+    "code": "017730",
+    "name": "嘉实全球产业升级股票发起式(QDII)A",
+    "category": "美股科技",
+    "limit": 100
+  },
+  {
+    "code": "022184",
+    "name": "富国全球科技互联网股票(QDII)C",
+    "category": "美股科技",
+    "limit": 1000
+  },
+  {
+    "code": "026228",
+    "name": "富国全球科技互联网股票(QDII)D",
+    "category": "美股科技",
+    "limit": 0
+  },
+  {
+    "code": "012920",
+    "name": "易方达全球成长精选混合(QDII)人民币A",
+    "category": "美股科技",
+    "limit": 10
+  },
+  {
+    "code": "012922",
+    "name": "易方达全球成长精选混合(QDII)人民币C",
+    "category": "美股科技",
+    "limit": 10
+  },
+  {
+    "code": "161128",
+    "name": "易方达标普科技ETF LOF",
+    "category": "美股科技",
+    "limit": 10
+  },
+  {
+    "code": "202801",
+    "name": "南方全球精选配置股票(QDII-FOF)A",
+    "category": "美股科技",
+    "limit": 100000000000
+  },
+  {
+    "code": "023591",
+    "name": "南方全球精选配置股票(QDII-FOF)C",
+    "category": "美股科技",
+    "limit": 100000000000
+  },
+  {
+    "code": "004877",
+    "name": "汇添富全球医疗保健混合(QDII)人民币",
+    "category": "美股医药",
+    "limit": 2000
+  },
+  {
+    "code": "000369",
+    "name": "广发全球医疗保健指数人民币(QDII)A",
+    "category": "美股医药",
+    "limit": 100
+  },
+  {
+    "code": "016280",
+    "name": "广发全球医疗保健指数人民币(QDII)C",
+    "category": "美股医药",
+    "limit": 100
+  },
+  {
+    "code": "161126",
+    "name": "易方达标普医疗保健ETF LOF",
+    "category": "美股医药",
+    "limit": 10
+  },
+  {
+    "code": "006308",
+    "name": "汇添富全球消费混合(QDII)人民币A",
+    "category": "美股消费",
+    "limit": 1000
+  },
+  {
+    "code": "006309",
+    "name": "汇添富全球消费混合(QDII)人民币C",
+    "category": "美股消费",
+    "limit": 1000
+  },
+  {
+    "code": "164906",
+    "name": "交银中证海外中国互联网指数",
+    "category": "中概互联",
+    "limit": 100000000000
+  },
+  {
+    "code": "006327",
+    "name": "易方达中证海外互联ETF联接A",
+    "category": "中概互联",
+    "limit": 100000000000
+  },
+  {
+    "code": "006328",
+    "name": "易方达中证海外互联ETF联接C",
+    "category": "中概互联",
+    "limit": 100000000000
+  },
+  {
+    "code": "000988",
+    "name": "嘉实全球互联网股票人民币",
+    "category": "中概互联",
+    "limit": 100
+  },
+  {
+    "code": "001668",
+    "name": "汇添富全球移动互联",
+    "category": "中概互联",
+    "limit": 700
+  },
+  {
+    "code": "013402",
+    "name": "华夏恒生科技ETF发起式联接(QDII)A",
+    "category": "港股科技",
+    "limit": 20000000
+  },
+  {
+    "code": "013403",
+    "name": "华夏恒生科技ETF发起式联接(QDII)C",
+    "category": "港股科技",
+    "limit": 20000000
+  },
+  {
+    "code": "019313",
+    "name": "易方达港股通互联网ETF联接A",
+    "category": "港股科技",
+    "limit": 100000000000
+  },
+  {
+    "code": "019314",
+    "name": "易方达港股通互联网ETF联接C",
+    "category": "港股科技",
+    "limit": 100000000000
+  },
+  {
+    "code": "006076",
+    "name": "博时恒生科技ETF联接C",
+    "category": "港股科技",
+    "limit": 5000000
+  },
+  {
+    "code": "320017",
+    "name": "诺安全球黄金(QDII-FOF)",
+    "category": "黄金商品",
+    "limit": 100000000000
+  },
+  {
+    "code": "000216",
+    "name": "华安黄金易ETF联接A",
+    "category": "黄金商品",
+    "limit": 99999999999
+  },
+  {
+    "code": "000217",
+    "name": "华安黄金易ETF联接C",
+    "category": "黄金商品",
+    "limit": 99999999999
+  }
+]

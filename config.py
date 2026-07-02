@@ -4,7 +4,7 @@ import os
 PORT = int(os.environ.get('PORT', 5000))
 
 # 调试模式
-DEBUG = os.environ.get('DEBUG', 'true').lower() == 'true'
+DEBUG = False
 
 # 缓存 TTL（秒）：天天基金数据是估算净值，不需要每秒都请求上游
 CACHE_TTL_SECONDS = 5
